@@ -1,1 +1,4 @@
-
+Here we first write shortutl like (http://localhost:3000/shorturls) 
+then pass the json data with url validity and expiry time using post request
+#Get
+then pass the url that you pass shortcode that you write at the end of your url  in get method then it redirect you to that url
